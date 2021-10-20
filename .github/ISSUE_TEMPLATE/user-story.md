@@ -2,7 +2,7 @@
 name: User story
 about: Роль пользователя
 title: ''
-labels: ''
+labels: User Story
 assignees: nikitavagOnov
 
 ---
